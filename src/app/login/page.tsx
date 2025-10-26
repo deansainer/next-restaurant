@@ -2,7 +2,12 @@ import React from 'react'
 
 const LoginPage = () => {
   return (
-    <div>Login Page</div>
+    <div>
+      {/* Box */}
+      <div className=''>
+        {/* Image container */}
+      </div>
+    </div>
   )
 }
 
